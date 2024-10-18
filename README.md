@@ -1,1 +1,0 @@
-# tets_for_Yandex_Crowd
